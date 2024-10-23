@@ -1,4 +1,4 @@
-**1.Ce este un viewport?**_
+**1.Ce este un viewport?**
 
 Viewport-ul este regiunea în care este desenat conținutul grafic generat de OpenGL.
 
@@ -10,7 +10,7 @@ Conceptul de frames per seconds definește numărul de cadre randate și afișat
 
 Metoda OnUpdateFrame() este rulată pentru fiecare cadru nou.
 
-**_4.Ce este modul imediat de randare?_**
+**4.Ce este modul imediat de randare?**
 
 Modul imediat de randare în OpenGL permite desenarea obiectelor prin indicarea vertecșilor direct, utilizând comenzi precum glBegin() și glEnd(). Este ușor de folosit, dar nu este eficient pentru scene complexe și a fost înlocuit cu metode mai moderne.
 
@@ -18,7 +18,7 @@ Modul imediat de randare în OpenGL permite desenarea obiectelor prin indicarea 
 
 Ultima versiune care acceptă modul imediat este OpenGL 3.1.
 
-**6,Când este rulată metoda OnRenderFrame()?**  
+**6.Când este rulată metoda OnRenderFrame()?**  
 
 metoda OnRenderFrame() este rulată înaintea afișării unui nou cadru pe ecran.
 
