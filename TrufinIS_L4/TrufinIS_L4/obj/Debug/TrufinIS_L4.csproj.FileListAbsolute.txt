@@ -1,0 +1,11 @@
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\bin\Debug\TrufinIS_L4.exe.config
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\bin\Debug\TrufinIS_L4.exe
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\bin\Debug\TrufinIS_L4.pdb
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\bin\Debug\OpenTK.dll
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\bin\Debug\OpenTK.pdb
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\bin\Debug\OpenTK.xml
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\obj\Debug\TrufinIS_L4.csproj.AssemblyReference.cache
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\obj\Debug\TrufinIS_L4.csproj.CoreCompileInputs.cache
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\obj\Debug\TrufinIS.31F02A4D.Up2Date
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\obj\Debug\TrufinIS_L4.exe
+D:\C3\EGC\TrufinIS_L4\TrufinIS_L4\obj\Debug\TrufinIS_L4.pdb
