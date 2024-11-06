@@ -1,4 +1,4 @@
-#  Laborator #3
+  Laborator 3
 
 *1.* Care este ordinea de desenare a vertexurilor pentru aceste metode (*orar* sau *anti-orar*)?
 Vertexurile sunt desenate în ordinea în care sunt specificate.În general anti-orar, indicând partea frontală a obiectului.  
