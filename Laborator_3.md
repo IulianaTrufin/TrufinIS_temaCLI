@@ -22,3 +22,4 @@ Utilizarea culorilor diferite este importantă fiindcă  ajută la distingerea o
  *Gradientul de culoare* reprezintă  tranziția dintre două sau mai multe  culori.
 *10.* Ce efect are utilizarea unei culori diferite pentru fiecare vertex atunci când desenați o linie sau un triunghi în modul strip?
 Dacă vertexurile au culori diferite se va forma un gradient din acestea.
+
